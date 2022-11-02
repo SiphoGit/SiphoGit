@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sipho Shimange</h1>
 <h3 align="center">I am a passionate and enthusiastic aspiring software engineer with a Chemistry background.</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2520294/screenshots/7269423/media/8db02365a1363822ae9f0554cf3d4469.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siphogit&label=Profile%20views&color=0e75b6&style=flat" alt="siphogit" /> </p>
 
