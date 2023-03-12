@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sipho Shimange</h1>
-<h3 align="center">I am a passionate and enthusiastic aspiring Software Engineer with a Chemistry background.</h3>
+<h3 align="center">I am a highly motivated and detail-oriented Software Engineering Graduate with a passion for programming and data analysis.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siphogit&label=Profile%20views&color=0e75b6&style=flat" alt="siphogit" /> </p>
 
